@@ -1,0 +1,3959 @@
+
+            <div id="ember80" class="product-card ember-view"><a href="/product/indie-hackers" id="ember81" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember82" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/indie-hackers/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember83" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Indie Hackers</span>
+      <span class="product-card__tagline">Learn from Profitable Online Businesses</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5600
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember85" class="product-card ember-view"><a href="/product/karmabot" id="ember86" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember87" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/karmabot/jMVb8SthfMRy0dt439f0O8h20pE3" id="ember88" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Karmabot</span>
+      <span class="product-card__tagline">High-performing culture in teams: good vibes and reports</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $14193
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember90" class="product-card ember-view"><a href="/product/mkdev-me" id="ember91" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember92" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/mkdev-me/SFQOxA1j09SH1o0MoY4Lna0WPfG2" id="ember93" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">mkdev</span>
+      <span class="product-card__tagline">Hire programming mentor</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember95" class="product-card ember-view"><a href="/product/browserless" id="ember96" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember97" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/browserless/IWNGfS2puAZNdWeo0shLFdDJcRt1" id="ember98" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">browserless</span>
+      <span class="product-card__tagline">The Headless Browser Service</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10595
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember100" class="product-card ember-view"><a href="/product/translatepress" id="ember101" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember102" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/translatepress/IwItMG5aSvXVSOiiMKwwLdQR2Uv1" id="ember103" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">TranslatePress</span>
+      <span class="product-card__tagline">A WordPress translation plugin that anyone can use</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember105" class="product-card ember-view"><a href="/product/social-intents" id="ember106" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember107" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/social-intents/Ut0slPmGDAMZiYvmm5V7tAMNG7r2" id="ember108" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Social Intents</span>
+      <span class="product-card__tagline">Live Chat for Slack + Growth Tools</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12400
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember110" class="product-card ember-view"><a href="/product/cloud-campaign" id="ember111" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember112" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/cloud-campaign/dlq17fNlgkMKgoAUQqFfNoQkzRE3" id="ember113" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Cloud Campaign</span>
+      <span class="product-card__tagline">Social media marketing software for digital agencies.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8797
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember115" class="product-card ember-view"><a href="/product/izmir-mekan-rehberi" id="ember116" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember117" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/izmir-mekan-rehberi/HdaiKWuX4vZl2WXf3NnQA6zhc4K2" id="ember118" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Izmir Mekan Rehberi</span>
+      <span class="product-card__tagline">Izmir Mekan Rehberi is the biggest restaurant guide in İzmir</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember120" class="product-card ember-view"><a href="/product/transistor" id="ember121" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember122" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/transistor/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember123" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Transistor</span>
+      <span class="product-card__tagline">Podcast platform for brands who want to grow their audience</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $11571
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember125" class="product-card ember-view"><a href="/product/airfocus" id="ember126" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember127" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/airfocus/4Ws56oXI38W1bhIXlhFRW70YdCj1" id="ember128" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">airfocus.io</span>
+      <span class="product-card__tagline">Smarter Roadmap Prioritization for Decision makers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $14000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember130" class="product-card ember-view"><a href="/product/alitu" id="ember131" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember132" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/alitu/SGc9c0WiMfNELh9I4wFkvid4W1A3" id="ember133" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Alitu</span>
+      <span class="product-card__tagline">The Podcast Maker app: your automated podcast producer</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5660
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember135" class="product-card ember-view"><a href="/product/scribly-io" id="ember136" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember137" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/scribly-io/DYw0dTdOScV5pOla8wLrMK87DNA3" id="ember138" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Scribly.io</span>
+      <span class="product-card__tagline">Unlimited copywriting to fuel business growth 🚀</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $14000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember140" class="product-card ember-view"><a href="/product/paleo-meal-plans" id="ember141" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember142" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/paleo-meal-plans/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember143" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Paleo Meal Plans</span>
+      <span class="product-card__tagline">Meal Planning Service</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember145" class="product-card ember-view"><a href="/product/plutio" id="ember146" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember147" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/plutio/NRz76loHCBMv2Sapv8F3wiSsyb73" id="ember148" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Plutio</span>
+      <span class="product-card__tagline">One app to manage your entire small business 🎉</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8445
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember150" class="product-card ember-view"><a href="/product/thechurchco" id="ember151" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember152" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/thechurchco/DCFuhCs4dmMW4K1ICzwcLLfiM5w2" id="ember153" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">The Church Co</span>
+      <span class="product-card__tagline">High Quality,  low cost websites for churches &amp; nonprofits.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10164
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember155" class="product-card ember-view"><a href="/product/viral-octopus" id="ember156" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember157" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/viral-octopus/6UgdqwBCKrajbhi4OiySciuX7W02" id="ember158" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Viral Octopus</span>
+      <span class="product-card__tagline">The House of Digital Excellence</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember194" class="product-card ember-view"><a href="/product/rebel-book-club" id="ember195" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember196" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/rebel-book-club/25vIKnTb7tQfxaUKqQJJMTFPLG32" id="ember197" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Rebel Book Club</span>
+      <span class="product-card__tagline">Not Your Average Book Club</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $9500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember199" class="product-card ember-view"><a href="/product/movingcompanyreviews-com" id="ember200" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember201" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/movingcompanyreviews-com/jsfbp4XP8whioWWQeJonrS04jZG2" id="ember202" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">MovingCompanyReviews.com</span>
+      <span class="product-card__tagline">The most trustworthy &amp; transparent way to find a great mover</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5131
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember204" class="product-card ember-view"><a href="/product/woffice" id="ember205" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember206" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/woffice/YmfLSOU6M2gxFdpWCA5j0uRGSZg1" id="ember207" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Woffice</span>
+      <span class="product-card__tagline">Intranet/Extranet/Community WordPress theme for BuddyPress</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember209" class="product-card ember-view"><a href="/product/wallethero" id="ember210" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember211" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/wallethero/9Axks7M34ePq3cZDFGjOqmi64Ht2" id="ember212" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">WalletHero</span>
+      <span class="product-card__tagline">Helping consumers find deals on internet + more</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember214" class="product-card ember-view"><a href="/product/join-it" id="ember215" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember216" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/join-it/Ziy3TUbsJYal1Lw8j96gURBM56l2" id="ember217" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Join It</span>
+      <span class="product-card__tagline">SaaS for organizations to sell and track memberships</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $18000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember219" class="product-card ember-view"><a href="/product/pulseability" id="ember220" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember221" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/pulseability/qPHHwNH45LQIWaq6C6yl6ax4DV92" id="ember222" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">PulseAbility</span>
+      <span class="product-card__tagline">B2B Influencer Marketplace Platform</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $17000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember224" class="product-card ember-view"><a href="/product/noticeable" id="ember225" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember226" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/noticeable/4xS5NDqBtPhSKhyBBxa08zT8Al42" id="ember227" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Noticeable</span>
+      <span class="product-card__tagline">Keep users updated and engaged with a nice newsfeed!</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $11325
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember229" class="product-card ember-view"><a href="/product/closet-assistant" id="ember230" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember231" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/closet-assistant/dySAVzSr67M3MpBrO0RCaX0sSeC2" id="ember232" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Closet Assistant</span>
+      <span class="product-card__tagline">Poshmark Automation Tool</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5598
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember234" class="product-card ember-view"><a href="/product/solidgigs" id="ember235" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember236" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/solidgigs/Uoxi5ajBwkXjBrjVqo2GrSLs1293" id="ember237" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">SolidGigs</span>
+      <span class="product-card__tagline">The best freelance gigs delivered to your inbox every week.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8167
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember239" class="product-card ember-view"><a href="/product/visualbonus" id="ember240" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember241" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/visualbonus/YZoAeXehwXdMKRy6nwKz9u7qx6g2" id="ember242" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">VisualBonus</span>
+      <span class="product-card__tagline">Sales Management Suite for Insurance agencies</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5006
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember244" class="product-card ember-view"><a href="/product/codefund-ads" id="ember245" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember246" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/codefund-ads/LQwPhurmN5R5meAsbNMFUqmYFI52" id="ember247" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">CodeFund Ads</span>
+      <span class="product-card__tagline">Ethical ad platform that helps fund open source projects</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember249" class="product-card ember-view"><a href="/product/wpfomify" id="ember250" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember251" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/wpfomify/eLAbvsHNQHe5HiVtMJOiQljCt003" id="ember252" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">WPfomify</span>
+      <span class="product-card__tagline">Social Proof Marketing for WordPress</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16404
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember254" class="product-card ember-view"><a href="/product/graphite" id="ember255" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember256" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/graphite/Zcfuy2kNmDUbKKwgt7qa7YR11M23" id="ember257" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Graphite</span>
+      <span class="product-card__tagline">Decentralized and encrypted alternative to Google's G-Suite</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember259" class="product-card ember-view"><a href="/product/powerpack-for-elementor" id="ember260" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember261" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/powerpack-for-elementor/eLAbvsHNQHe5HiVtMJOiQljCt003" id="ember262" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">PowerPack for Elementor</span>
+      <span class="product-card__tagline">Take Elementor to next level with Creative Widgets</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16404
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember264" class="product-card ember-view"><a href="/product/powerpack-for-beaver-builder" id="ember265" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember266" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/powerpack-for-beaver-builder/eLAbvsHNQHe5HiVtMJOiQljCt003" id="ember267" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">PowerPack for Beaver Builder</span>
+      <span class="product-card__tagline">50+ Modules &amp; 250+ Templates for Beaver Builder</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16404
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember269" class="product-card ember-view"><a href="/product/top-mortgage-training" id="ember270" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember271" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/top-mortgage-training/2UpARv8Wpygozdtby1COATKTi7I2" id="ember272" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">TOP</span>
+      <span class="product-card__tagline">Direct access to the systems and techniques of the top 1%.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5230
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember274" class="product-card ember-view"><a href="/product/boxy-suite" id="ember275" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember276" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/boxy-suite/yCwvDTDYBgQTG624uE2h3sRQscZ2" id="ember277" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Boxy Suite</span>
+      <span class="product-card__tagline">Beautiful Mac clients for Gmail and Google Calendar.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember279" class="product-card ember-view"><a href="/product/fixsensei" id="ember280" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember281" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/fixsensei/C4a993l2tmYjvtMZUUegX9eyTBQ2" id="ember282" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">FixSensei</span>
+      <span class="product-card__tagline">Door to door iPhone iPad repair, we send technician to you.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember284" class="product-card ember-view"><a href="/product/wordxpress-wp-website-management" id="ember285" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember286" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/wordxpress-wp-website-management/5fy7Sj9BhzOrJ1pwEyUveh2SJzP2" id="ember287" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">WordXPress</span>
+      <span class="product-card__tagline">WP maintenance &amp; support</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $9548
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember289" class="product-card ember-view"><a href="/product/fairmeadow" id="ember290" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember291" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/fairmeadow/TQz4rqhwTYX6Hn7g7Z6hAiWOygk2" id="ember292" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">FairMeadow</span>
+      <span class="product-card__tagline">Doorstep laundry service</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $13846
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember294" class="product-card ember-view"><a href="/product/anchor-hosting" id="ember295" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember296" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/anchor-hosting/IHK0T08L8GfLCAuHW6tVpxbVl663" id="ember297" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Anchor Hosting</span>
+      <span class="product-card__tagline">Hassle-free WordPress hosting for web professionals</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7354
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember299" class="product-card ember-view"><a href="/product/sciter-engine" id="ember300" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember301" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/sciter-engine/dIX0aa5UM5eHqTuBMehF5dIyU0K3" id="ember302" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Sciter Engine</span>
+      <span class="product-card__tagline">Embeddable HTML/CSS/script engine for desktop UI apps.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $9000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember304" class="product-card ember-view"><a href="/product/funretro" id="ember305" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember306" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/funretro/Y9IivRNTL0RDHPtCYq2uWrMziob2" id="ember307" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">FunRetro</span>
+      <span class="product-card__tagline">Online board for agile retrospectives</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember309" class="product-card ember-view"><a href="/product/revenuecat" id="ember310" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember311" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/revenuecat/Z66Ctd0tRSNjp7JM1zuq0OPCLgD3" id="ember312" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">RevenueCat</span>
+      <span class="product-card__tagline">Simple API for managing in-app subscriptions</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6940
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember314" class="product-card ember-view"><a href="/product/social-shark" id="ember315" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember316" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/social-shark/N1TvpiUMC3aSyFxam6VBwL7vQvH2" id="ember317" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Social Shark</span>
+      <span class="product-card__tagline">Automated Instagram Growth Service to grow your IG followers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember319" class="product-card ember-view"><a href="/product/deco-slides" id="ember320" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember321" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/deco-slides/67eae2zG3FdFvbSxuPQyaSjVent1" id="ember322" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Deco Slides</span>
+      <span class="product-card__tagline">Slide sandals with swappable straps</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $19960
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember324" class="product-card ember-view"><a href="/product/azlabels" id="ember325" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember326" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/azlabels/KevBBK2ErphzA94rLyfyvp2cTQT2" id="ember327" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">AZLabels</span>
+      <span class="product-card__tagline">Thermal labels for Amazon Sellers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7539
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember329" class="product-card ember-view"><a href="/product/pmlesson" id="ember330" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember331" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/pmlesson/XS0MAYbhOTNovWK2hCEzXa3P7N83" id="ember332" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">PMLesson</span>
+      <span class="product-card__tagline">Product management interview coaching</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember334" class="product-card ember-view"><a href="/product/parlor" id="ember335" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember336" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/parlor/fT9rktJq6bZTU3aFhqipIaiJ5Az1" id="ember337" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Parlor</span>
+      <span class="product-card__tagline">Competitive advantage through customer collaboration</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember339" class="product-card ember-view"><a href="/product/statbot" id="ember340" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember341" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/statbot/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember342" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Statbot</span>
+      <span class="product-card__tagline">Analytics &amp; Insights for Intercom</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8545
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember344" class="product-card ember-view"><a href="/product/makerpad" id="ember345" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember346" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/makerpad/fOQ0exqnB5UmndRl8bgGAortnbt1" id="ember347" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Makerpad</span>
+      <span class="product-card__tagline">Learn how to build products without code</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $13233
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember349" class="product-card ember-view"><a href="/product/comfort-option" id="ember350" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember351" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/comfort-option/gZiGvoIcNJftXXfEn7OJFXpHUBS2" id="ember352" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Comfort Option</span>
+      <span class="product-card__tagline">Custom Mattresses, Made At Your House</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember354" class="product-card ember-view"><a href="/product/dailywritingtips-com" id="ember355" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember356" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/dailywritingtips-com/PWairgiOpneHvkGJri7RVbtORKI2" id="ember357" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">DailyWritingTips.com</span>
+      <span class="product-card__tagline">English tips website and newsletter</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $9000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember359" class="product-card ember-view"><a href="/product/aircourts" id="ember360" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember361" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/aircourts/GwfxJ5AjsZOSGeNAj1AcxDztCGv2" id="ember362" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">AirCourts</span>
+      <span class="product-card__tagline">A SaaS enabled marketplace for Sports</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember364" class="product-card ember-view"><a href="/product/salem-software" id="ember365" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember366" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/salem-software/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember367" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Salem Software</span>
+      <span class="product-card__tagline">Spanish Language Bible iOS App</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember369" class="product-card ember-view"><a href="/product/pingbid" id="ember370" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember371" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/pingbid/BX3exhxSrHWodrcaXPJWICONlsu2" id="ember372" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">PingBid</span>
+      <span class="product-card__tagline">Reverse auction for loan applications</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember374" class="product-card ember-view"><a href="/product/zubtitle" id="ember375" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember376" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/zubtitle/AUlqFjlIdPePtuOV2rsskkcwJS72" id="ember377" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Zubtitle</span>
+      <span class="product-card__tagline">Automatically add captions to any video</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5028
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember379" class="product-card ember-view"><a href="/product/influencekit" id="ember380" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember381" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/influencekit/6aDNMrUeGMfpx1AiZfqp1VTyuV02" id="ember382" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">InfluenceKit</span>
+      <span class="product-card__tagline">InfluenceKit is automated reporting for sponsored content</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6086
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember384" class="product-card ember-view"><a href="/product/social-rocketship" id="ember385" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember386" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/social-rocketship/PWairgiOpneHvkGJri7RVbtORKI2" id="ember387" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Social Rocketship</span>
+      <span class="product-card__tagline">Digital Marketing Company </span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember389" class="product-card ember-view"><a href="/product/history-search" id="ember390" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember391" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/history-search/IMDGRlIUu6OSxL0ukTSy92NTBd23" id="ember392" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">History Search</span>
+      <span class="product-card__tagline">The missing filesystem of the web</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember394" class="product-card ember-view"><a href="/product/game-quitters" id="ember395" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember396" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/game-quitters/6vqUFj6MowdopeJSg18c5kdvbdY2" id="ember397" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Game Quitters</span>
+      <span class="product-card__tagline">Support Community for Gaming Addicts</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember399" class="product-card ember-view"><a href="/product/boords" id="ember400" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember401" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/boords/aYJKbqvQBHPEARUpZ9Rdc4k64oE3" id="ember402" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Boords</span>
+      <span class="product-card__tagline">Boords helps you make remarkable storyboards.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $19782
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember404" class="product-card ember-view"><a href="/product/iconic" id="ember405" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember406" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/iconic/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember407" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Iconic</span>
+      <span class="product-card__tagline">WooCommerce Plugins</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $9000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember409" class="product-card ember-view"><a href="/product/raklet" id="ember410" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember411" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/raklet/xHctbkk1dnP9gZAHaEd76LRF9033" id="ember412" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Raklet</span>
+      <span class="product-card__tagline">Better way to acquire, engage and grow your community</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember414" class="product-card ember-view"><a href="/product/remotive" id="ember415" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember416" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/remotive/6y3OX3zFunRBrX9L4JFRIJNgW1Z2" id="ember417" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Remotive.io</span>
+      <span class="product-card__tagline">Helping Tech professionals land remote jobs.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6505
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember419" class="product-card ember-view"><a href="/product/crazycall" id="ember420" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember421" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/crazycall/30XmI3tjWcWiJW1z0IUn7liGRLT2" id="ember422" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">CrazyCall </span>
+      <span class="product-card__tagline">Easy to use cloud-based calling application</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember424" class="product-card ember-view"><a href="/product/outsource-accelerator" id="ember425" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember426" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/outsource-accelerator/euIU3zEOlWYA8CGfnOCJEBlXtUK2" id="ember427" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Outsource Accelerator</span>
+      <span class="product-card__tagline">Outsourcing aggregator platform and advisory</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $9600
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember429" class="product-card ember-view"><a href="/product/standuply" id="ember430" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember431" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/standuply/PWairgiOpneHvkGJri7RVbtORKI2" id="ember432" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Standuply</span>
+      <span class="product-card__tagline">Digital Scrum Master bot for Slack</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $20000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember434" class="product-card ember-view"><a href="/product/tribeboost" id="ember435" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember436" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/tribeboost/y1lFbDPQ92RpCMnAHMXGU7qK7BK2" id="ember437" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">TribeBoost</span>
+      <span class="product-card__tagline">Digital marketing as a service for startups &amp; SaaS</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember439" class="product-card ember-view"><a href="/product/timecamp" id="ember440" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember441" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/timecamp/15gzS6c2ByXrTIzvrmJ9TSdhYkn2" id="ember442" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">TimeCamp</span>
+      <span class="product-card__tagline">Time tracking software your team will actually use</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember444" class="product-card ember-view"><a href="/product/palar-support" id="ember445" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember446" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/palar-support/bDnXhY8WGaWCEhMRfTzxG7bWz2B3" id="ember447" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Palar Support</span>
+      <span class="product-card__tagline">Technical support as a service</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember449" class="product-card ember-view"><a href="/product/all-time-design" id="ember450" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember451" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/all-time-design/y129wNZugiVnqH3fohrwa8YooaP2" id="ember452" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">All Time Design </span>
+      <span class="product-card__tagline">Unlimited designs, request, revision at a monthly flat fee</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5638
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember454" class="product-card ember-view"><a href="/product/pixelme" id="ember455" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember456" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/pixelme/wqPJG2nU2PQmrPy84FZOOuWJqr02" id="ember457" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">PixelMe</span>
+      <span class="product-card__tagline">URL tracker for growth marketers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $11000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember459" class="product-card ember-view"><a href="/product/creator-arcade" id="ember460" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember461" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/creator-arcade/PWairgiOpneHvkGJri7RVbtORKI2" id="ember462" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Creator Arcade</span>
+      <span class="product-card__tagline">Learn and get feedback  from the world's best music creators</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember464" class="product-card ember-view"><a href="/product/dependabot" id="ember465" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember466" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/dependabot/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember467" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Dependabot</span>
+      <span class="product-card__tagline">Automated Dependency Updates</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $14000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember469" class="product-card ember-view"><a href="/product/hyperstarter" id="ember470" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember471" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/hyperstarter/TbTfybOdYkMjbOeb4HLCvI238l92" id="ember472" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Hyperstarter</span>
+      <span class="product-card__tagline">Web based analytics tool that helps Kickstarter campaigns.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember474" class="product-card ember-view"><a href="/product/folyo" id="ember475" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember476" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/folyo/7zHvYHjmPPe7dcZLAy4KMwZlCos1" id="ember477" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Folyo</span>
+      <span class="product-card__tagline">Great Design Jobs and Projects</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5649
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember479" class="product-card ember-view"><a href="/product/weekly-marketing-video" id="ember480" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember481" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/weekly-marketing-video/vKVUKs6gChSLN1A5Wes3LPmugsC3" id="ember482" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Marketing Videos</span>
+      <span class="product-card__tagline">If an image is worth a thousand words, imagine a video!</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember484" class="product-card ember-view"><a href="/product/wegacha" id="ember485" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember486" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/wegacha/vKVUKs6gChSLN1A5Wes3LPmugsC3" id="ember487" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Wegacha</span>
+      <span class="product-card__tagline">We get it, we got you</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember489" class="product-card ember-view"><a href="/product/insomnia" id="ember490" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember491" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/insomnia/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember492" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Insomnia</span>
+      <span class="product-card__tagline">Visual HTTP and GraphQL client for developers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15057
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember494" class="product-card ember-view"><a href="/product/curaite" id="ember495" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember496" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/curaite/5RLcPWkULBa5q79pmXUi7GYAMEp1" id="ember497" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Curaite</span>
+      <span class="product-card__tagline">AI-powered social media management platform</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5700
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember499" class="product-card ember-view"><a href="/product/wallpaper" id="ember500" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember501" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/wallpaper/OtoFAt3zlZW1rswveV8qnbfjNxm1" id="ember502" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Wallpaper</span>
+      <span class="product-card__tagline">Wallpapers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember504" class="product-card ember-view"><a href="/product/reviewshake" id="ember505" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember506" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/reviewshake/RNnIRwpHsldh100ny2MjdLDjvsx1" id="ember507" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Reviewshake</span>
+      <span class="product-card__tagline">Review management platform</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember509" class="product-card ember-view"><a href="/product/code-free-startup" id="ember510" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember511" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/code-free-startup/1cMR7GGSe1UmOuSm3dqJTVdeVOY2" id="ember512" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Code-Free Startup</span>
+      <span class="product-card__tagline">Build apps like Airbnb and Uber without code </span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember514" class="product-card ember-view"><a href="/product/innago" id="ember515" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember516" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/innago/hviNGYliMDRSWqAQjCrIihtWXYK2" id="ember517" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Innago</span>
+      <span class="product-card__tagline">Property Management Software</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember519" class="product-card ember-view"><a href="/product/mysocialapp" id="ember520" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember521" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/mysocialapp/PWairgiOpneHvkGJri7RVbtORKI2" id="ember522" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">MySocialApp</span>
+      <span class="product-card__tagline">Add News Feed for your app with ease</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember524" class="product-card ember-view"><a href="/product/secapps" id="ember525" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember526" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/secapps/94IdUxnDe5M0v6QziOGaYocATds1" id="ember527" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">SecApps</span>
+      <span class="product-card__tagline">Online Platform For Information Tools and Services</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $20000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember529" class="product-card ember-view"><a href="/product/freecodecamp" id="ember530" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember531" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/freecodecamp/mYe7oMpMYkfyMtGw0moluScGAL52" id="ember532" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">freeCodeCamp.org</span>
+      <span class="product-card__tagline">Learn to code for free together with millions of people</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $20000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember534" class="product-card ember-view"><a href="/product/collect-chat" id="ember535" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember536" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/collect-chat/mDBYMdDnM0d3Qsh2dCe5mk1PyRq2" id="ember537" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Collect.chat</span>
+      <span class="product-card__tagline">Build interactive chatbots for collecting data on websites.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember539" class="product-card ember-view"><a href="/product/premiumcoding" id="ember540" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember541" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/premiumcoding/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember542" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">PremiumCoding</span>
+      <span class="product-card__tagline">WordPress Themes for Blogs</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember544" class="product-card ember-view"><a href="/product/pogumax-designer-software-for-video-projection" id="ember545" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember546" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/pogumax-designer-software-for-video-projection/wpMPVfBuAmZKnMoFbwbnPzdlKSN2" id="ember547" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">POGUMAX Designer</span>
+      <span class="product-card__tagline">The easiest tool for interior 3d mapping video projection</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $20000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember549" class="product-card ember-view"><a href="/product/scraper-api" id="ember550" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember551" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/scraper-api/Uldjc183G1P2TZksOT9Mjpgoquy1" id="ember552" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Scraper API</span>
+      <span class="product-card__tagline">Easily build scalable web scrapers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $5538
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember554" class="product-card ember-view"><a href="/product/hireclub" id="ember555" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember556" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/hireclub/GLVHE5UuX1g5yneNRJi6mX3esZp1" id="ember557" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">HireClub</span>
+      <span class="product-card__tagline">Helping friends find jobs with career coaching</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $11972
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember559" class="product-card ember-view"><a href="/product/hiration" id="ember560" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember561" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/hiration/Zegpb1XgMAQmy1LNnl1Hf0uIdqJ2" id="ember562" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Hiration</span>
+      <span class="product-card__tagline">Create job targeted resumes to get your dream shortlists!</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember564" class="product-card ember-view"><a href="/product/convopanda" id="ember565" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember566" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/convopanda/NDDfZWN8gRgDEsSg7eFRHuK5LN63" id="ember567" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">ConvoPanda</span>
+      <span class="product-card__tagline">Get 5-20+ Warm B2B Leads Without Cold Emailing Or Paid Ads</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $13600
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember569" class="product-card ember-view"><a href="/product/hack-pacific" id="ember570" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember571" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/hack-pacific/ECqYgMx4VUQnG9zPZCRKFq3g5Aq2" id="ember572" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Altcademy</span>
+      <span class="product-card__tagline">Learn to code. Live your dream.</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember574" class="product-card ember-view"><a href="/product/branchspot" id="ember575" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember576" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/branchspot/7nMsSsBWuCUjQwaG2rnaHDeC0Mg1" id="ember577" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Branchspot</span>
+      <span class="product-card__tagline">ATM and Bank Branch Location App</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8300
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember579" class="product-card ember-view"><a href="/product/pagestead" id="ember580" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember581" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/pagestead/PWairgiOpneHvkGJri7RVbtORKI2" id="ember582" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Pagestead</span>
+      <span class="product-card__tagline">Your very own professional site builder</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember584" class="product-card ember-view"><a href="/product/wpsessions" id="ember585" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember586" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/wpsessions/1SpcQIK9Effb46wHtBEFVyPOsok1" id="ember587" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">WPSessions</span>
+      <span class="product-card__tagline">Training and tutorials for WordPress developers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember589" class="product-card ember-view"><a href="/product/algoexpert" id="ember590" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember591" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/algoexpert/PWairgiOpneHvkGJri7RVbtORKI2" id="ember592" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">AlgoExpert</span>
+      <span class="product-card__tagline">Interview Prep Website for Software Engineers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember594" class="product-card ember-view"><a href="/product/first-site-guide" id="ember595" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember596" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/first-site-guide/KelsaCD8tIezsjFSi6urBNCwez73" id="ember597" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">FirstSiteGuide</span>
+      <span class="product-card__tagline">Free Resources, Guides &amp; Help for Web Newbies</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember599" class="product-card ember-view"><a href="/product/ora" id="ember600" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember601" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/ora/ssv8dkb3lZMXLeXxKEImobCYZoW2" id="ember602" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Ora</span>
+      <span class="product-card__tagline">All in one agile task management and team collaboration</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $9500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember604" class="product-card ember-view"><a href="/product/wp-fusion" id="ember605" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember606" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/wp-fusion/PWairgiOpneHvkGJri7RVbtORKI2" id="ember607" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">WP Fusion</span>
+      <span class="product-card__tagline">Marketing automation plugin for WordPres</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember609" class="product-card ember-view"><a href="/product/datingwebsites-nl" id="ember610" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember611" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/datingwebsites-nl/zHrViKJDPmQ2o7nKdgyDWZyPEri2" id="ember612" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">DatingWebsites.nl</span>
+      <span class="product-card__tagline">Network of Reviewsites</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $11000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember614" class="product-card ember-view"><a href="/product/edmprod" id="ember615" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember616" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/edmprod/GiFDxFsbOZVNrqivDC9mT9WpDh52" id="ember617" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">EDMProd</span>
+      <span class="product-card__tagline">Online training for electronic music producers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $13489
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+            <img alt="Stripe" class="product-card__stripe-logo" src="/images/logos/stripe--white.svg">
+          -verified
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember619" class="product-card ember-view"><a href="/product/endcrawl-com" id="ember620" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember621" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/endcrawl-com/PWairgiOpneHvkGJri7RVbtORKI2" id="ember622" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Endcrawl.com</span>
+      <span class="product-card__tagline">End Credits SaaS for Film &amp; TV</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $20000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember624" class="product-card ember-view"><a href="/product/readability-score" id="ember625" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember626" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/readability-score/6TX9oIXSwAd4nEEDJ44XFiHxery1" id="ember627" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Readable.io</span>
+      <span class="product-card__tagline">Quality Control for Content</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember629" class="product-card ember-view"><a href="/product/wpsaas" id="ember630" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember631" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/wpsaas/PWairgiOpneHvkGJri7RVbtORKI2" id="ember632" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">wpSaaS</span>
+      <span class="product-card__tagline">WordPress Support as a Service</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember634" class="product-card ember-view"><a href="/product/product-manager-hq" id="ember635" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember636" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/product-manager-hq/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember637" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Product Manager HQ</span>
+      <span class="product-card__tagline">Community for Product Managers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember639" class="product-card ember-view"><a href="/product/vivalatina" id="ember640" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember641" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/vivalatina/PWairgiOpneHvkGJri7RVbtORKI2" id="ember642" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Vivalatina</span>
+      <span class="product-card__tagline">Custom made jewelry service online</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7200
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember644" class="product-card ember-view"><a href="/product/zencastr" id="ember645" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember646" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/zencastr/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember647" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Zencastr</span>
+      <span class="product-card__tagline">High Fidelity Podcast Recording</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12600
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember649" class="product-card ember-view"><a href="/product/workshop" id="ember650" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember651" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/workshop/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember652" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Workshop</span>
+      <span class="product-card__tagline">Leads for Designers + Developers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember654" class="product-card ember-view"><a href="/product/what-song" id="ember655" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember656" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/what-song/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember657" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">WhatSong</span>
+      <span class="product-card__tagline">Film &amp; TV Music Discovery App</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember659" class="product-card ember-view"><a href="/product/weddinglovely" id="ember660" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember661" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/weddinglovely/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember662" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">WeddingLovely</span>
+      <span class="product-card__tagline">Wedding Planning App &amp; Vendor Network</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7200
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember664" class="product-card ember-view"><a href="/product/videoder" id="ember665" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember666" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/videoder/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember667" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Videoder</span>
+      <span class="product-card__tagline">Video &amp; Music Downloader</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember669" class="product-card ember-view"><a href="/product/vacayrx" id="ember670" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember671" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/vacayrx/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember672" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Vacayrx</span>
+      <span class="product-card__tagline">Alternative Vacation Rental Platform</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember674" class="product-card ember-view"><a href="/product/ux-power-tools" id="ember675" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember676" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/ux-power-tools/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember677" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">UX Power Tools</span>
+      <span class="product-card__tagline">Sketch Design Framework and UI Kit</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember679" class="product-card ember-view"><a href="/product/testing-bot" id="ember680" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember681" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/testing-bot/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember682" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">TestingBot</span>
+      <span class="product-card__tagline">Browser and Device Testing</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember684" class="product-card ember-view"><a href="/product/stamp" id="ember685" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember686" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/stamp/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember687" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Stamp</span>
+      <span class="product-card__tagline">Music Playlist Import/Export</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $17000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember689" class="product-card ember-view"><a href="/product/society-socks" id="ember690" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember691" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/society-socks/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember692" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Society Socks</span>
+      <span class="product-card__tagline">E-Commerce Sock Subscription </span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember694" class="product-card ember-view"><a href="/product/selfdecode" id="ember695" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember696" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/selfdecode/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember697" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">SelfDecode</span>
+      <span class="product-card__tagline">Digital Health Coach with Genetics</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16900
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember699" class="product-card ember-view"><a href="/product/safervpn" id="ember700" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember701" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/safervpn/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember702" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">SaferVPN</span>
+      <span class="product-card__tagline">The Fastest and Simplest VPN</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $20000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember704" class="product-card ember-view"><a href="/product/rockin-robin" id="ember705" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember706" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/rockin-robin/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember707" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Rockin'Robin</span>
+      <span class="product-card__tagline">Content Agency &amp; Marketing Tools</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $11500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember709" class="product-card ember-view"><a href="/product/rmotr-com" id="ember710" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember711" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/rmotr-com/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember712" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">rmotr.com</span>
+      <span class="product-card__tagline">Remote Programming Bootcamp</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $17000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember714" class="product-card ember-view"><a href="/product/publishing-push" id="ember715" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember716" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/publishing-push/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember717" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Publishing Push</span>
+      <span class="product-card__tagline">Transparent PR For Authors</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6200
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember719" class="product-card ember-view"><a href="/product/proteusthemes" id="ember720" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember721" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/proteusthemes/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember722" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">ProteusThemes</span>
+      <span class="product-card__tagline">WordPress Themes for Small Businesses</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember724" class="product-card ember-view"><a href="/product/phoenix-for-rails-developers" id="ember725" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember726" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/phoenix-for-rails-developers/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember727" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Phoenix for Rails Developers</span>
+      <span class="product-card__tagline">Book to Teach Phoenix to Rails Devs</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember729" class="product-card ember-view"><a href="/product/payfunnels" id="ember730" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember731" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/payfunnels/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember732" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Payfunnels</span>
+      <span class="product-card__tagline">Invoicing App</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember734" class="product-card ember-view"><a href="/product/offscreen-magazine" id="ember735" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember736" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/offscreen-magazine/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember737" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Offscreen Magazine</span>
+      <span class="product-card__tagline">Magazine About Tech People</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember739" class="product-card ember-view"><a href="/product/no-shame-income" id="ember740" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember741" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/no-shame-income/PWairgiOpneHvkGJri7RVbtORKI2" id="ember742" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">No Shame Income</span>
+      <span class="product-card__tagline">Selling Online Courses</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember744" class="product-card ember-view"><a href="/product/mugpods" id="ember745" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember746" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/mugpods/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember747" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">mugpods</span>
+      <span class="product-card__tagline">Nespresso Compatible Pods</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember749" class="product-card ember-view"><a href="/product/marketing-for-developers" id="ember750" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember751" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/marketing-for-developers/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember752" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Marketing for Developers</span>
+      <span class="product-card__tagline">Course for Indie Programmers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember754" class="product-card ember-view"><a href="/product/maitre" id="ember755" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember756" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/maitre/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember757" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Maître</span>
+      <span class="product-card__tagline">Viral Waiting List</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $13000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember759" class="product-card ember-view"><a href="/product/lighting-shoes" id="ember760" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember761" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/lighting-shoes/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember762" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Lighting Shoes</span>
+      <span class="product-card__tagline">Shopify Store for LED Shoes</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember764" class="product-card ember-view"><a href="/product/kapa99" id="ember765" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember766" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/kapa99/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember767" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Kapa99</span>
+      <span class="product-card__tagline">Unlimited Graphic Design</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember769" class="product-card ember-view"><a href="/product/intrinio" id="ember770" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember771" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/intrinio/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember772" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Intrinio</span>
+      <span class="product-card__tagline">Financial Data and Analytics Market</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember774" class="product-card ember-view"><a href="/product/humanpredictions" id="ember775" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember776" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/humanpredictions/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember777" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">HumanPredictions</span>
+      <span class="product-card__tagline">Tech Recruiting Tool</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $17750
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember779" class="product-card ember-view"><a href="/product/gifshare" id="ember780" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember781" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/gifshare/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember782" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">GifShare</span>
+      <span class="product-card__tagline">Instagram Gif Editor</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember784" class="product-card ember-view"><a href="/product/fundraising-report-card" id="ember785" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember786" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/fundraising-report-card/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember787" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Fundraising Report Card</span>
+      <span class="product-card__tagline">Fundraising Analytics for Nonprofits</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember789" class="product-card ember-view"><a href="/product/flystein" id="ember790" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember791" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/flystein/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember792" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Flystein</span>
+      <span class="product-card__tagline">Human-Powered Flight Search Service</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $8000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember794" class="product-card ember-view"><a href="/product/face-juggler" id="ember795" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember796" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/face-juggler/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember797" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Face Juggler</span>
+      <span class="product-card__tagline">First Automatic Face Swapping App</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $18000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember799" class="product-card ember-view"><a href="/product/customfilterz" id="ember800" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember801" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/customfilterz/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember802" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">CustomFilterz</span>
+      <span class="product-card__tagline">Snapchat Geofilter Design</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $10950
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember804" class="product-card ember-view"><a href="/product/cronitor" id="ember805" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember806" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/cronitor/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember807" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Cronitor.io</span>
+      <span class="product-card__tagline">Monitor Scheduled Tasks and Services</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember809" class="product-card ember-view"><a href="/product/creative-tim" id="ember810" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember811" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/creative-tim/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember812" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Creative Tim</span>
+      <span class="product-card__tagline">UI Kits, Templates, and Dashboards</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $17000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember814" class="product-card ember-view"><a href="/product/clusterengine" id="ember815" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember816" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/clusterengine/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember817" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">ClusterEngine</span>
+      <span class="product-card__tagline">MySQL and MariaDB as a Service </span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $20000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember819" class="product-card ember-view"><a href="/product/chessable" id="ember820" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember821" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/chessable/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember822" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Chessable</span>
+      <span class="product-card__tagline">Science-based Chess Education</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $6000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember824" class="product-card ember-view"><a href="/product/candy-japan" id="ember825" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember826" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/candy-japan/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember827" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Candy Japan</span>
+      <span class="product-card__tagline">Japanese Candy Subscription Box</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember829" class="product-card ember-view"><a href="/product/bugfender" id="ember830" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember831" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/bugfender/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember832" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Bugfender</span>
+      <span class="product-card__tagline">Cloud Storage for Your App Logs</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $12000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember834" class="product-card ember-view"><a href="/product/augrav" id="ember835" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember836" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/augrav/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember837" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">AuGrav</span>
+      <span class="product-card__tagline">3D Printed Personalized Jewelry</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember839" class="product-card ember-view"><a href="/product/arkservers-io" id="ember840" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember841" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/arkservers-io/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember842" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">ArkServers.io</span>
+      <span class="product-card__tagline">Game Server Hosting</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $20000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember844" class="product-card ember-view"><a href="/product/amplifr" id="ember845" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember846" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/amplifr/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember847" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Amplifr</span>
+      <span class="product-card__tagline">Social Media Scheduling and Analytics</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember849" class="product-card ember-view"><a href="/product/a-dark-room" id="ember850" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember851" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/a-dark-room/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember852" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">A Dark Room iOS</span>
+      <span class="product-card__tagline">Indie Mobile Game</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $7500
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember854" class="product-card ember-view"><a href="/product/appointment-reminder" id="ember855" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember856" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/appointment-reminder/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember857" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">Appointment Reminder</span>
+      <span class="product-card__tagline">Appointment Scheduler and Reminder</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $11000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember859" class="product-card ember-view"><a href="/product/gorails" id="ember860" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember861" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/gorails/PWairgiOpneHvkGJri7RVbtORKI2" id="ember862" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">GoRails</span>
+      <span class="product-card__tagline">Screencasts for Ruby on Rails developers</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $15000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+            <div id="ember864" class="product-card ember-view"><a href="/product/form-craft" id="ember865" class="product-card__link ember-view">  <div class="product-card__header">
+    <div id="ember866" class="product-card__logo product-avatar ember-view"><img src="https://storage.googleapis.com/indie-hackers.appspot.com/product-avatars/form-craft/ibTLPyjwVebnZjMGKvz6ztarnuV2" id="ember867" class="product-avatar__img img-lazy img-lazy--loaded ember-view">
+</div>
+    <div class="product-card__header-text">
+      <span class="product-card__name">FormCraft</span>
+      <span class="product-card__tagline">Form Builder and Survey Tool</span>
+    </div>
+  </div>
+
+<!---->
+    <div class="product-card__revenue">
+      <div class="product-card__revenue-text">
+        <span class="product-card__revenue-number">
+          $16000
+          <span class="product-card__revenue-slash">/</span>
+          <span class="product-card__revenue-period">month</span>
+        </span>
+
+        <span class="product-card__revenue-explanation">
+<!---->          self-reported
+          revenue
+        </span>
+      </div>
+    </div>
+
+</a></div>
+<!---->        

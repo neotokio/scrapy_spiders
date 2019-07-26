@@ -7,10 +7,6 @@ from scrapy import Selector
 
 from tradekey.items import TradekeyItem
 
-#Xpaths to figure out, because they dont work! scrapy shell would be best
-#LinkExtractor rules for category_page
-# response.xpath('//*[@id="list_1"]//table//tr//h2//a//text()').extract() #NameOfProduct in list_1
-
 class Trade(CrawlSpider):
     name = "p5"
     allowed_domains = ["tradekey.com"]
@@ -96,16 +92,5 @@ class Trade(CrawlSpider):
 
         item['BusinessType'] = texts[3] if len(texts) >= 4 else 'None'
         item['BusinessArea'] = texts[4] if len(texts) >= 5 else 'None'
-        
-
         yield item
-
-#response.xpath('//h1[contains(@class, "company-heading")]/following-sibling::p//text()').extract() This gets addres from corp page
-#product_page = response.xpath('//div[contains(@class, "nav_bar_fixed")]//li[contains(@class, "nopadding-left-right")]//a[contains(@title, "Products")]//@href').extract_first() 
-#different approach - scrap only members OR visit product page and scrap here - best to do both
-#response.xpath('//ul[contains(@class, "navbar-nav")]//li[contains(@class, "nopadding-left-right")]//a/@href').extract()[5] WORKS! [5] selects
-#response.xpath('//div[contains(@id, "bi-body")]//label[contains(@class, "text-bold")]//following-sibling::p[1]//text()').extract() (this selects values from trust profile)
-#response.xpath('//div[contains(@id, "bi-body")]//label[contains(@class, "text-bold")]//text()').extract() this selects variables from trust profile
-#response.xpath('//div[contains(@id, "bi-body")]//label[contains(@class, "text-bold")]//following-sibling::p[1]//text() | //div[contains(@id, "bi-body")]//label[contains(@class, "text-bold")]//text()').extract()
-#EXTRACT ALLN NICLEY!
 

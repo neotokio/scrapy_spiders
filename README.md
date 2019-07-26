@@ -33,3 +33,4 @@ Therefore, you should use this respository mostly as reference when stuck on wri
 4. https://www.tradekey.com/
   *HTML rendered content
   *Advanced multipage navigation
+  *href.py files is used for processing tradekeys URLs localy

@@ -50,7 +50,7 @@ class ElectronicsSpider(CrawlSpider):
         item['url'] = response.url
         company_page = response.xpath('//div[4]/div[1]/div[4]/div/ul/li[2]/a/@href').extract_first() #navigate to PRODUCTS>>>
         
-        if company_page:  #IT SKIPS IF IT DOESNT FIND 'PRODUCT' TAB!!!!
+        if company_page: 
             company_page = response.urljoin(company_page)
             request = scrapy.Request(company_page, callback = self.company_data)
             request.meta['item'] = item

@@ -20,14 +20,3 @@ class altSpider(CrawlSpider):
       item['Tagline'] = items.xpath('.//div[contains(@class, "product-card ember-view")]//a//@href').extract()
 
       yield item
-
-#response.xpath('//div[contains(@class, "product-card__revenue")]//span[contains(@class, "product-card__revenue-number")]//text()').extract() Revenue works
-
-#TO RESOLVE:
-#1. Saving to separate items (SOLVED!)
-#2. Passing ALL of the website with log-in
-#3. Navigating to futher URLS to scrape more data
-#4. Login session
-
-#It can be also resolved by navigating to each individual page, passing meta item, extracting information fromt there
-#div id="ember85" class="product-card ember-view"><a href="/product/browserless" id="ember86" class="product-card__link ember-view">

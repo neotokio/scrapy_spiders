@@ -24,5 +24,5 @@ class Trade(CrawlSpider):
 
     def parse_item(self, response):
         item = TradelinksItem()
-        item['href'] = response.url #response.xpath('//div[contains(@class, "cateMenu")]//a//@href').extract()
+        item['href'] = response.url
         yield item

@@ -20,7 +20,7 @@ All code was written for private use, therefore it's most likley unusable for yo
 Therefore, you should use this repositories mostly as reference when stuck on writing your scrapy logic/xpath logic or when you simply look for some alternative approach.
 <p></p>
 <b>On what websites those web crawlers work</b>
-<p></p>
+
  1. https://alternativedata.org
    Uses JSON API URLS (local).
     Advanced xpath selection.

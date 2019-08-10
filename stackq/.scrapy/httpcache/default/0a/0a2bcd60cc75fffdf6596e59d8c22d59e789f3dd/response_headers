@@ -1,0 +1,20 @@
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+X-Timer: S1565361130.967365,VS0,VE112
+Strict-Transport-Security: max-age=15552000
+X-Request-Guid: def1f6b0-9808-40e6-8528-5b2cb9cbbd57
+X-Served-By: cache-fra19120-FRA
+Date: Fri, 09 Aug 2019 14:32:10 GMT
+Content-Encoding: gzip
+X-Cache-Hits: 0
+X-Frame-Options: SAMEORIGIN
+Age: 0
+Age: 0
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+X-Cache: MISS
+Via: 1.1 varnish
+Vary: Accept-Encoding,Fastly-SSL
+Feature-Policy: microphone 'none'; speaker 'none'
+X-Dns-Prefetch-Control: off
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' https://stackexchange.com

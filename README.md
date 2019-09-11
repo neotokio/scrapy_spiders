@@ -19,18 +19,3 @@ All code was written for private use, therefore it's most likley unusable for yo
 <p></p>
 Therefore, you should use this repositories mostly as reference when stuck on writing your scrapy logic/xpath logic or when you simply look for some alternative approach.
 <p></p>
-<b>On what websites those web crawlers work</b>
-
- 1. https://alternativedata.org
-   Uses JSON API URLS (local).
-    Advanced xpath selection.
- 2. https://www.go4worldbusiness.com/
-  Simple HTML web crawler.
-  Navigates to different pages.
- 3. https://www.indiehackers.com/
- Uses already preprocessed URLS from downloaded HTML sources (scrape from url_list.txt).
-  Uses scrapy-splash with appropriate settings (IH is suuuuper slow).
- 4. https://www.tradekey.com/
-  HTML rendered content.
-  Advanced multipage navigation.
-  href.py files is used for processing tradekeys URLs localy.
